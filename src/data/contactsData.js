@@ -1,7 +1,9 @@
 export const contactsData = {
-    email: 'janedoe.test@gmail.com',
-    phone: '+915588776600',
-    address: 'Menlo Park, California, United States - 673822 ',
+    email: 'gnambiar@ucdavis.edu',
+    phone: '+1(530)908-8941',
+    address: '880 Alvarado Avenue\n Davis\n California\n95616',
 
-    sheetAPI: ''
+    sheetAPI: 'https://sheetdb.io/api/v1/d9h6xmfk06vll'
 }
+
+

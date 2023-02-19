@@ -117,12 +117,12 @@ export const blueThemeLight = {
 }
 export const blueThemeDark = {
     type: 'dark',
-    primary: '#545fc4',
-    primary400: '#6e76c7',
-    primary600: '#3644c9',
-    primary80: '#545fc4cc',
-    primary50: '#545fc480',
-    primary30: '#545fc44d',
+    primary: '#7397b5',
+    primary400: '#7397bd',
+    primary600: '#8bb1d4',
+    primary80: '#9ebfdc',
+    primary50: '#c7daeb',
+    primary30: '#699cc9',
     secondary: '#212121',
     secondary70: '#212121b3',
     secondary50: '#21212180',
