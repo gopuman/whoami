@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'gnambiar@ucdavis.edu',
     phone: '+1(530)908-8941',
-    address: '880 Alvarado Avenue\n Davis\n California\n95616',
+    address: 'Davis\n California\n95616',
 
     sheetAPI: 'https://sheetdb.io/api/v1/d9h6xmfk06vll'
 }
